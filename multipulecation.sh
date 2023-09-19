@@ -1,3 +1,4 @@
+echo "Welcome TO OMSAIRAM Institute"
 echo "Enter Number to Generate Multiplication Table"
 read -p "Enter the number : " number
 echo "***********************"

@@ -1,0 +1,12 @@
+Follow the free resources. It has web-based content, web-based interactive tutorials, free courses, and pdf materials.
+
+Linux Shell Scripting Tutorial [Web]
+Free interactive shell scripting tutorials [Web]
+Shell Scripting tutorial [Web]
+Bash Guide [web]
+Shell Scripting Free Course [Udemy]
+Advanced Bash Scripting Guide [PDF]
+Bash Academy [Web]
+Bash Notes for Professionals [PDF]
+Bash Reference manual [PDF]
+The Linux command line [PDF]

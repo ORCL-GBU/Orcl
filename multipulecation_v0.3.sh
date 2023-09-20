@@ -9,4 +9,5 @@ echo " $number * $i =`expr $number \* $i ` "
 i=`expr $i + 1`
 done
 echo "********** This is Version 3 file *************"
+a=`ls -ltra`
 echo "***** This script implemented by K SIVAIAH-+91-9885553477  *****"

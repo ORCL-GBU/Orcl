@@ -20,6 +20,7 @@ int main()
 	y = temp;
 
 	printf("\nAfter Swapping: x = %d, y = %d", x, y);
+	#printf("\nAfter Swapping: x = %d, y = %d", x, y);
 	return 0;
 }
 
